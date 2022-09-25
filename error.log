@@ -1,0 +1,6 @@
+java.lang.ClassNotFoundException: HelloAplication
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:636)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:182)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:519)
+	at com.exe4j.runtime.LauncherEngine.launch(LauncherEngine.java:80)
+	at com.exe4j.runtime.WinLauncher.main(WinLauncher.java:94)
